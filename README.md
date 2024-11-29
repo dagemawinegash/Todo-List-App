@@ -12,7 +12,7 @@
 
 ## 🌐 Demo
 
-Explore the live demo here: [Todo List App Demo]
+Explore the live demo here: 
 
 ## 🚀 Clone the Project
 
